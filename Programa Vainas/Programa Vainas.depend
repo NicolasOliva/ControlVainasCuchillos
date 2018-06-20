@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1485991555 source:c:\documents and settings\all users\documentos\programa vainas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vainas.h"
+
+1485612560 c:\documents and settings\all users\documentos\programa vainas\vainas.h
+	<stdio.h>
+
+1485991436 source:c:\documents and settings\all users\documentos\programa vainas\vainas.c
+	"Vainas.h"
+
